@@ -1,1 +1,2 @@
-# Fligh-Fare-Prediction
+# INeuron-Flight-Fare-Prediction
+Predicting Flight fare using machine learning models.
